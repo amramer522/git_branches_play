@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// hello from test branch
+// hello from splash branch
 void main() {
   runApp(const MyApp());
 }
